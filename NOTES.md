@@ -1,0 +1,1 @@
+The solution searches the Kokoro style space through convex combinations of stock voices instead of unconstrained perturbations. Multiple evaluation prompts were used to improve robustness to unseen text. The final tensor was selected using both objective similarity and listening quality.
